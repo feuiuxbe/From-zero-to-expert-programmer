@@ -10,8 +10,11 @@ Prerequisites:
 ・Programming: loops, arrays, functions, objects, recursion.
 ・Java: we use as expository language.
 ・Mathematics: high-school algebra.
+
 TO DO:
 https://www.coursera.org/learn/algorithms-part1/programming/37IH3/hello-world
+Subtask:
+https://algs4.cs.princeton.edu/code/
 
 II. 1 hour of Introduction to Programming in Java (https://introcs.cs.princeton.edu/java/home/):
 ・20/780 pages
