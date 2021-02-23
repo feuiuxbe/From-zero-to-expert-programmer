@@ -18,3 +18,6 @@ https://algs4.cs.princeton.edu/code/
 
 II. 1 hour of Introduction to Programming in Java (https://introcs.cs.princeton.edu/java/home/):
 ・20/780 pages
+
+III. 1 hour of JavaScript: The Definitive Guide, 7th Edition (https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/):
+・38/732 pages
